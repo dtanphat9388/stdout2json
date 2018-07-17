@@ -1,0 +1,20 @@
+{
+  "name": "stdout2json",
+  "version": "1.0.0",
+  "description": "Simple library for convert stdout to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtanphat9388/cmd2json.git"
+  },
+  "keywords": ["convert", "convert to json", "cmd to json"],
+  "author": "Duong Tan Phat <dtanphat9388@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtanphat9388/cmd2json/issues"
+  },
+  "homepage": "https://github.com/dtanphat9388/cmd2json#readme"
+}
