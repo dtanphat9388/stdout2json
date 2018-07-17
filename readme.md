@@ -1,3 +1,9 @@
+# Install
+
+```bash
+npm i stdout2json
+```
+
 # How work
  * **note**: cmd2json only works for stdout with the following column-style format
 
@@ -30,7 +36,8 @@ output to json
         "CREATED": "3 days ago",
         "SIZE": "853MB",
     },
-    ...
+    
+    // ...
 ]
 ```
 
